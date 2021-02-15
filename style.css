@@ -1,7 +1,7 @@
 body {
     width: 100%;
     margin: 30px;
-    background-color: rgb(202, 223, 231);
+    background-color: blanchedalmond;
  }
   
  #profile-container{
@@ -20,12 +20,22 @@ body {
     text-align: center;
  }
  
+<<<<<<< HEAD
  #header{
+=======
+ #footer {
+>>>>>>> footer
      width: 100%;
      height: 50px;
      line-height: 50px;
      background-color: burlywood;
+<<<<<<< HEAD
      text-align: center;
      color: white;
  }
  
+=======
+     text-align:center;
+     color: whitesmoke;
+ }
+>>>>>>> footer
